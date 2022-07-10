@@ -59,7 +59,7 @@ bytes= { version = "1.1.0", features = ["serde"] }
 tap= "1.0.1"
 smolscale= "0.3.16"
 async-compat= "0.2.1"
-im= "15.0.0"
+im= "15.1.0"
 # surf={version="2.2.0", features=["h1-client-rustls"], default-features=false}
 event-listener= "2.5.1"
 cached= "0.23.0"
