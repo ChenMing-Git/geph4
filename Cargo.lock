@@ -419,7 +419,7 @@ version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d4830ac690261d0b47f06e86d18c47eaa65d0184e576cf9b62c3a49b28cb876b"
 dependencies = [
- "nix 0.20.1",
+ "nix 0.20.2",
  "tempfile",
  "winapi 0.3.9",
 ]
@@ -2025,9 +2025,9 @@ dependencies = [
 
 [[package]]
 name = "nix"
-version = "0.20.1"
+version = "0.20.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "df8e5e343312e7fbeb2a52139114e9e702991ef9c2aea6817ff2440b35647d56"
+checksum = "f5e06129fb611568ef4e868c14b326274959aa70ff7776e9d55323531c374945"
 dependencies = [
  "bitflags 1.2.1",
  "cc",
